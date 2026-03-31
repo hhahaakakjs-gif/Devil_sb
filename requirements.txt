@@ -1,0 +1,16 @@
+ffmpeg 
+youtube_DL 
+PyNaCl 
+discord==1.7.3 
+discord.py==1.7.3 
+websockets 
+requests 
+yt_Dlp 
+colorama
+rich
+openai
+pystyle
+psutil
+tls_client
+spotipy
+aiofiles

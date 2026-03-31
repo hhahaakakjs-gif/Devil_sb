@@ -1,0 +1,17 @@
+Message 1: A message was deleted by danger.jija_001#0 in DM/GC
+Content: hi
+Message 1: A message was deleted by danger.real#0 in DM/GC
+Content: ```Now auto-reacting with ⚡ to danger.real's messages```
+Message 2: A message was deleted by danger.real#0 in DM/GC
+Content: ,autoreact <@1369309534916579468> ⚡
+Message 3: A message was deleted by danger.real#0 in DM/GC
+Content: ,purge 15
+Message 4: A message was deleted by danger.real#0 in DM/GC
+Content: No command named 'agctwl' found.
+Message 5: A message was deleted by danger.real#0 in DM/GC
+Content: ```ansi
+[31mCommand Help :[0m purge
+
+[[31mUsage:[0m] purge [num]
+[[31mDescription:[0m] Purges a specified number of messages, including old ones, in DMs and Group Chats.
+```
